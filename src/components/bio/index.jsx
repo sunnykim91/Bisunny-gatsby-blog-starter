@@ -25,15 +25,15 @@ export const Bio = () => (
               <div className="author-name">
                 <span className="author-name-prefix">Written by</span>
                 <Link to={'/about'} className="author-name-content">
-                  <span>Lee And Jang</span>
+                  <span>Bisuuny</span>
                 </Link>
                 <div className="author-introduction">{introduction}</div>
                 <p className="author-socials">
                   {social.github && (
                     <a href={`https://github.com/${social.github}`}>GitHub</a>
                   )}
-                  {social.lblog && <a href={`${social.lblog}`}>L's Blog</a>}
-                  {social.github && <a href={`${social.jblog}`}>J's Blog</a>}
+                  {/* {social.lblog && <a href={`${social.lblog}`}>L's Blog</a>} */}
+                  {/* {social.github && <a href={`${social.jblog}`}>J's Blog</a>} */}
                 </p>
               </div>
             </div>
