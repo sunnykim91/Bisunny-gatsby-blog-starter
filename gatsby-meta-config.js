@@ -1,8 +1,8 @@
 module.exports = {
-  title: `L&J Blog Starter`,
-  description: `L&J 블로그`,
-  author: `L&J`,
-  introduction: `L&J 블로그에 오신것을 환영합니다.`,
+  title: `BiSunny Blog Starter`,
+  description: `BiSunny 블로그`,
+  author: `BiSunny`,
+  introduction: `BiSunny 블로그에 오신것을 환영합니다.`,
   siteUrl: `https://l-j-gatsby-blog-starter.netlify.app/`, // Your blog site url
   social: {
     github: `LeeAndJang/L-J-gatsby-blog-starter`, // Your GitHub account
@@ -10,7 +10,7 @@ module.exports = {
     jblog: `https://gogujang.netlify.app/`,
   },
   icon: `content/assets/React.js_logo-512.png`, // Add your favicon
-  keywords: [`blog`, `LeeAndJang`, `L&J`],
+  keywords: [`blog`, `LeeAndJang`, `BiSunny`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'LeeAndJang/L-J-gatsby-blog-starter', // Your repository for archive comment
@@ -19,7 +19,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'LeeAndJang',
+    buyMeACoffeeId: 'BiSunny',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2

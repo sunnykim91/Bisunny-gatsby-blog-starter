@@ -1,5 +1,5 @@
 ---
-title: 리앤장 Gatsby 블로그에 오신것을 환영합니다.
+title: BiSunny Gatsby 블로그에 오신것을 환영합니다.
 date: 2020-11-21 22:10:36
 category: Git
 thumbnail: 'welcome/welcome.jpg'
